@@ -38,7 +38,9 @@
 
 <p align="center">
     💻 Skills<br/><br/>
-    <img src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?&style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?&style=for-the-badge&logo=flutter&logoColor=white" />
    
 
 </p>
