@@ -25,7 +25,7 @@
 <!--END_SECTION:waka-->
  </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KudzaiMakufa&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KudzzaiMakufa&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -47,7 +47,7 @@
 </p>
 <p align='center'>
     ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visited my profile
-  <!-- <a href="#"><img src="https://badges.pufler.dev/visits/KudzaiMakufa/KudzaiMakufa"></a> hipsters and nerds have come here o/ -->
+  <a href="#"><img src="https://badges.pufler.dev/visits/KudzaiMakufa/KudzaiMakufa"></a> Visitors all together
 </p>
 
 <details>
