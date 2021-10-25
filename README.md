@@ -47,7 +47,7 @@
 </p>
 <p align='center'>
    
-  <a href="#"><img src="https://badges.pufler.dev/visits/KudzaiMakufa"></a> Visitors all together
+  <a href="#"><img src="https://badges.pufler.dev/visits/KudzaiMakufa"></a> Visitors all together <br>
   <a href="#"><img src="https://badges.pufler.dev/repos/KudzaiMakufa"></a> Public Repositories
  
 </p>
