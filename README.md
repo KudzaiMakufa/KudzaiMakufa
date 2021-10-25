@@ -61,7 +61,7 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
 📆 2021 - moment\
