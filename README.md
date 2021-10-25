@@ -38,7 +38,7 @@
 
 <p align="center">
     💻 Skills<br/><br/>
-    <img src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white" />
    
 
 </p>
