@@ -52,11 +52,6 @@
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/KudzaiMakufa/facepay"></a> Visitors all together <br>
-
- 
-</p>
-<p align='center'>
-
   <a href="#"><img src="https://badges.pufler.dev/repos/KudzaiMakufa"></a> Public Repositories
  
 </p>
