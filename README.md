@@ -36,6 +36,14 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+<p align="center">
+    💻 Skills<br/><br/>
+  <img src="https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+
+</p>
 
 
 
@@ -64,7 +72,7 @@
 <img align="right" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
-📆 2021 - moment\
+📆 2021 - present\
 📍 **CIMAS** - CiMAS
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
