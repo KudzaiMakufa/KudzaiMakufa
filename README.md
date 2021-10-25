@@ -46,8 +46,8 @@
   📫 How to reach me: <a href='mailto:kmakufa@outlook.com'>kmakufa@outlook.com@outlook.com</a>
 </p>
 <p align='center'>
- 
-  <a href="#"><img src="https://badges.pufler.dev/visits/KudzaiMakufa/KudzaiMakufa"></a> Visitors all together
+   
+  <a href="#"><img src="https://badges.pufler.dev/visits/KudzaiMakufa"></a> Visitors all together
 </p>
 
 <details>
