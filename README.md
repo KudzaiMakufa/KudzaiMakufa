@@ -22,7 +22,10 @@
 </p>
 <p>
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
  </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KudzaiMakufa&show_icons=true&count_private=true&theme=dark" width="350"></a>
