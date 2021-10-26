@@ -53,6 +53,8 @@ No Activity tracked this Week
 <p align='center'>
   📫 How to reach me: <a href='mailto:kmakufa@outlook.com'>kmakufa@outlook.com@outlook.com</a>
 </p>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KudzaiMakufa.visitor-badge)
+
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/KudzaiMakufa/facepay"></a> Visitors all together <br>
   <a href="#"><img src="https://badges.pufler.dev/repos/KudzaiMakufa"></a> Public Repositories
