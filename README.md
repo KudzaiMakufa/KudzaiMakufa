@@ -56,7 +56,7 @@ No Activity tracked this Week
 
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=KudzaiMakufa.visitor-badge"></a> Visitors all together <br>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=KudzaiMakufa.visitor-badge"></a> Profile Visitors <br>
   <a href="#"><img src="https://badges.pufler.dev/repos/KudzaiMakufa"></a> Public Repositories
  
 </p>
