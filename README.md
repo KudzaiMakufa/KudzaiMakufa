@@ -1,7 +1,9 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Promise Kudzai Makufa 👨‍💻
+  Promise Kudzai Makufa 👨‍💻
+  <br>
+  Software Developer | AI |ML | APIS | Azure | Python | CyberSecurity |
 </h1>
 
 <p align='center'>
@@ -51,7 +53,7 @@ No Activity tracked this Week
 
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:kmakufa@outlook.com'>kmakufa@outlook.com@outlook.com</a>
+  📫 How to reach me: <a href='mailto:kmakufa@outlook.com'>kmakufa@outlook.com</a>
 </p>
 
 
