@@ -63,8 +63,8 @@ No Activity tracked this Week
  
 </p>
 
-<details>
-   PROFFESIONAL EXPERIENCE
+<div>
+  <summary>PROFFESIONAL EXPERIENCE</summary>
 
 
 ## Education
@@ -111,7 +111,7 @@ No Activity tracked this Week
 
 
 
-</details>
+</div>
 
 
 
