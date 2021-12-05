@@ -64,7 +64,7 @@ No Activity tracked this Week
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+   PROFFESIONAL EXPERIENCE
 
 
 ## Education
