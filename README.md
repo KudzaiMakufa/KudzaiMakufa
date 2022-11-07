@@ -3,7 +3,7 @@
 <h1 align='center'>
   Promise Kudzai Makufa 👨‍💻
   <br>
-  Software Developer |JAVA| AI | ML | APIs | Azure | Python  |
+  Software Developer | JAVA | AI | ML | APIs | Azure | Python  |
 </h1>
 
 <p align='center'>
