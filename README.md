@@ -7,7 +7,7 @@
 </h1>
 
 <p align='center'>
-  A Fullstack Developer from Zimbabwe
+  Software Engineer |  Motto : (Do it right the first time)
 </p>
 
 
