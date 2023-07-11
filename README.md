@@ -3,7 +3,7 @@
 <h1 align='center'>
   Promise Kudzai Makufa 👨‍💻
   <br>
-  Software Enginner | JAVA | ANGULAR | DYNAMICS 365
+  Software Engineer | JAVA | ANGULAR | DYNAMICS 365
 </h1>
 
 <p align='center'>
