@@ -3,11 +3,11 @@
 <h1 align='center'>
   Promise Kudzai Makufa 👨‍💻
   <br>
-  Software Engineer | JAVA | ANGULAR | DYNAMICS 365
+  Software Engineer | .NET | ANGULAR | DYNAMICS 365 BUSINESS CENTRAL | NAV
 </h1>
 
 <p align='center'>
-  Software Engineer | Java , Angular ,  Dynamics 365
+    Software Engineer | .NET | ANGULAR | DYNAMICS 365 BUSINESS CENTRAL | NAV
 </p>
 
 
